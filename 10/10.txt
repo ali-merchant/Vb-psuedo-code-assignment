@@ -1,0 +1,43 @@
+DECLARE s,r : STRING
+
+r ← ''
+s ← ''
+
+
+OUTPUT("Input string")
+INPUT s
+
+r ← RIGHT(s, 3)
+
+IF r = 'ing' THEN
+	s ← s & 'ily'
+	OUTPUT(s)
+ELSEIF LEN(s) >= 3 THEN
+	
+	s = s & 'ing'
+	OUTPUT(s)
+ELSEIF LEN(s) < 3 THEN
+	OUTPUT(s)
+ENDIF 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
