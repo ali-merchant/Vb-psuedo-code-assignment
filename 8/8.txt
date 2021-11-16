@@ -1,0 +1,28 @@
+DECLARE s,s2,nxt,first,rep : STRING
+DECLARE count : INTEGER
+count ← 0
+
+rep=''
+s2=''
+s=''
+first=''
+
+OUTPUT("Input string:")
+INPUT s 
+s ← LOWER(s)
+
+FOR count = 1 TO LENGTH(S)
+	nxt = MID(s,count + 1, 1)
+	IF nxt = first THEN
+		
+		nxt ← '*'
+	ENDIF
+	
+	first = LEFT(s,1)
+	s2 = s2 & nxt
+	
+NEXT
+
+s2 = first & s2
+
+OUTPUT('new string is :' , s2)
