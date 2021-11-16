@@ -1,0 +1,42 @@
+DECLARE str,str2 : STRING
+DECLARE del,rep,nxt : CHAR
+str <-- ""
+str2 <-- ""
+del <-- ""
+rep <-- ""
+nxt <-- ""
+
+
+
+OUTPUT("Enter string")
+str <-- INPUT
+
+OUTPUT("Enter char to remove")
+del <-- INPUT
+
+
+OUTPUT("Enter char to replace")
+dep <-- INPUT
+
+FOR count <-- 1 TO LENGTH(str)
+	nxt <-- MID(str,count,1)
+	IF nxt <-- del THEN
+		nxt <-- rep
+	ENDIF
+	str2 <-- str2 & nxt
+
+NEXT
+	
+OUTPUT("New string is:" & str2)
+
+
+
+
+
+
+
+
+
+
+
+

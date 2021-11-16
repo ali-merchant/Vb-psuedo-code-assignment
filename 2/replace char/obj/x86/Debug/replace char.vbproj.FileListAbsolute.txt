@@ -1,0 +1,8 @@
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\bin\Debug\replace char.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\bin\Debug\replace char.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\bin\Debug\replace char.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\obj\x86\Debug\replace char.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\obj\x86\Debug\replace char.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\obj\x86\Debug\replace char.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\2\replace char\obj\x86\Debug\replace char.pdb
