@@ -1,0 +1,8 @@
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\bin\Debug\9 mixup.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\bin\Debug\9 mixup.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\bin\Debug\9 mixup.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\obj\x86\Debug\9 mixup.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\obj\x86\Debug\9 mixup.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\obj\x86\Debug\9 mixup.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\9 mixup\9 mixup\obj\x86\Debug\9 mixup.pdb

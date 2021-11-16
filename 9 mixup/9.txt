@@ -1,0 +1,30 @@
+DECLARE s1,news1,s2,news2,f1,f2,r,r2 : STRING
+s1←''
+s2←''
+r←''
+r2←''
+news1←''
+newss2←''
+f1← ''
+f2←''
+
+
+
+OUTPUT("input word 1 ")
+INPUT s1
+
+
+OUTPUT("input word 2 ")
+INPUT s2
+
+f1 ← LEFT(s1,2)
+r ← RIGHT(s1, LENGTH(s1)-2)
+
+f2 ← LEFT(s2,2)
+r ← RIGHT(s2, LENGTH(s2)-2)
+
+news1 ← f1 & r2
+news2 ← f2 & r
+
+output("new string is : " & news2 & "" & news1)
+
