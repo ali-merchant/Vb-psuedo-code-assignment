@@ -1,0 +1,16 @@
+DECLARE s,first,second : STRING
+s ← ''
+first ← ''
+second ← ''
+
+OUTPUT("ENTER STRING : ")
+INPUT s 
+
+IF LENGTH(s) > 4 THEN
+	first ← (LEFT(s,2))
+	second ← (RIGHT(s,2))
+
+	OUTPUT(first , second)
+ELSE
+	s = 's'
+	OUTPUT (s)
