@@ -1,0 +1,20 @@
+DECLARE s : STRING
+DECLARE c : CHARACTER
+DECLARE i,count : INTEGER
+
+s ← ""
+c ← ""
+i ← 0
+count ← 0
+
+INPUT "Enter string to process:",str1
+
+FOR i ← 1 to LENGTH(s)
+	c ← UPPER(MID(s,i,1))
+	
+	IF c >= 'A' AND c <= 'Z' THEN
+		count ← count + 1
+	ENDIF
+next i
+OUTPUT"total alphabets: ", count
+	
