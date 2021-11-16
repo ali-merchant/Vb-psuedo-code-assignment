@@ -1,0 +1,11 @@
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\bin\Debug\pangram.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\bin\Debug\pangram.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\bin\Debug\pangram.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\obj\x86\Debug\pangram.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\obj\x86\Debug\pangram.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\obj\x86\Debug\pangram.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\pangram\pangram\obj\x86\Debug\pangram.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\1\pangram\obj\x86\Debug\pangram.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\1\pangram\obj\x86\Debug\pangram.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\1\pangram\obj\x86\Debug\pangram.pdb

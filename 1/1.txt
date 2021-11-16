@@ -1,0 +1,25 @@
+DECLARE str,Astr : STRING
+DECLARE nxt : CHAR
+DECLARE ispangram : BOOLEAN
+
+str <-- ""
+Astr <-- "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+nxt <-- ""
+ispangram <-- True
+
+OUTPUT("Enter string:")
+str=INPUT
+
+FOR count <-- 1 TO LENGTH(Astr)
+	nxt = Mid(Astr, Count, 1)
+	IF LOCATE(str, nxt) = 0 THEN
+		ispangram = false
+		EXIT FOR
+	ENDIF
+NEXT
+	IF ispangram = TRUE THEN
+		OUTPUT("string has all the alphabets")
+	ELSE
+		OUTPUT("string does not have all the alphabets")	
+	ENDIF
+	
