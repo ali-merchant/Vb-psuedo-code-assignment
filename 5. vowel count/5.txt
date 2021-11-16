@@ -1,0 +1,68 @@
+DECLARE mystr,mychar : STRING
+DECLARE counter ,ac,ec,ic,oc,uc : INTEGER
+DECLARE A,E,I,O,U : CHAR
+
+mystr <-- ""
+mychar <-- ""
+ac <-- 0
+ec <-- 0
+counter = 0
+A <-- "A"
+E <-- "E"
+I <-- "I"
+O <-- "O"
+U <-- "U"
+
+OUTPUT("Enter string:")
+mystr <-- UCase(INPUT)
+
+
+FOR counter <-- 1 TO LENGTH(mystr)
+	mychar <-- MID(mystr,counter,1)
+	IF LOCATE(A, mychar) > 0 THEN
+		ac <-- ac + 1
+	ENDIF
+NEXT
+
+OUTPUT("No, of a = " & ac)
+
+
+FOR counter <-- 1 TO LENGTH(mystr)
+	mychar <-- MID(mystr,counter,1)
+	IF LOCATE(E, mychar) > 0 THEN
+		ec <-- ec + 1
+	ENDIF
+NEXT
+
+OUTPUT("No, of E = " & ec)
+
+
+FOR counter <-- 1 TO LENGTH(mystr)
+	mychar <-- MID(mystr,counter,1)
+	IF LOCATE(I, mychar) > 0 THEN
+		ic <-- ic + 1
+	ENDIF
+NEXT
+
+OUTPUT("No, of i = " & ic)
+
+
+
+FOR counter <-- 1 TO LENGTH(mystr)
+	mychar <-- MID(mystr,counter,1)
+	IF LOCATE(O, mychar) > 0 THEN
+		oc <-- oc + 1
+	ENDIF
+NEXT
+
+OUTPUT("No, of o = " & oc)
+
+
+FOR counter <-- 1 TO LENGTH(mystr)
+	mychar <-- MID(mystr,counter,1)
+	IF LOCATE(U, mychar) > 0 THEN
+		uc <-- uc + 1
+	ENDIF
+NEXT
+
+OUTPUT("No, of u = " & uc)

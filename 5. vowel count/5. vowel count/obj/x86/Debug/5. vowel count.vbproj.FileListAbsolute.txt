@@ -1,0 +1,8 @@
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\bin\Debug\5. vowel count.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\bin\Debug\5. vowel count.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\bin\Debug\5. vowel count.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\obj\x86\Debug\5. vowel count.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\obj\x86\Debug\5. vowel count.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\obj\x86\Debug\5. vowel count.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\5. vowel count\5. vowel count\obj\x86\Debug\5. vowel count.pdb
