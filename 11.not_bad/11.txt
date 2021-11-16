@@ -1,0 +1,37 @@
+DECLARE s, newtxt, discard : STRING
+DECLARE no, bad, in1, in2 : INTEGER
+
+s←''
+newtxt←''
+no ← 0
+bad ← 0
+
+OUTPUT ("INPUT string")
+INPUT s
+
+s ← LOWER(s)
+
+no ← LOCATE(1, s, 'not',)
+
+bad ← LOCATE(1, s, 'bad')
+
+in1 ← no
+in2 ← bad
+
+newtxt ← s.Substring(in2 - in1)
+
+discard = Replace(s, newtxt, 'good')
+OUTPUT(discard)
+
+
+
+
+
+
+
+
+
+
+
+
+

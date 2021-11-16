@@ -1,0 +1,8 @@
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\bin\Debug\11.not_bad.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\bin\Debug\11.not_bad.pdb
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\bin\Debug\11.not_bad.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\obj\x86\Debug\11.not_bad.vbproj.GenerateResource.Cache
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\obj\x86\Debug\11.not_bad.exe
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\obj\x86\Debug\11.not_bad.xml
+C:\Users\ali\Documents\Visual Studio 2010\Projects\11.not_bad\11.not_bad\obj\x86\Debug\11.not_bad.pdb
